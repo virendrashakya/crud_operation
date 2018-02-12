@@ -1,0 +1,25 @@
+.body{
+  height: 100%
+  width:inherit;
+
+}
+
+.lt
+{
+  height: 810px;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 170px;
+  background-color: #BBDEFB;
+}
+.rt
+{
+  height: inherit;
+  padding-top: 150px;
+  height: 810px;
+  /* background-color: #1F273A; */
+}
+.table-responsive{
+  padding-left: 100px;
+    padding-right: 100px;
+}
